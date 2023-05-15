@@ -1,0 +1,16 @@
+{
+  "name": "ipc-clickthrough",
+  "productName": "ipc-clickthrough",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "bgosrani",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "24.2.0"
+  }
+}

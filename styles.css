@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+/* Add styles here to customize the appearance of your app */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.red-border {
+  border: 5px solid red;
+   min-height: 100vh;
+}
+
+#clickThroughElement {
+  opacity: 0.3;
+  margin: 50px 1000px;
+  width: 500px;
+  height: 50px;
+ background-color: yellow;
+}
+
+
+#toolbar{
+  /* width: 100%;
+  height: 50px;
+  background-color  : yellow; */
+}
+
